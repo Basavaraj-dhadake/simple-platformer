@@ -1,4 +1,4 @@
- # Real-Time Simple Platformer Game – Completed
+ # Real-Time Simple Platformer Game 
 
 This repository contains my completed and improved version of the **Real-Time Simple Platformer Game** assigned through the SETAPESU26 repository.
 
